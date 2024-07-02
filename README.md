@@ -1,6 +1,6 @@
 # Companion Arbiter PUFs.
 
-This repository contains the assignments for the course CS253: Software Development Operations, taken by Prof. Indranil Saha, during 2024 Semester - II. 
+This repository contains the assignments for the course CS771: Introduction to Machine Learning, taken by Prof. Purushottam Kar, during 2024 Semester - II. 
 
 ## Overview
 
